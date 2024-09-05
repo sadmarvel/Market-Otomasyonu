@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.Form1.resources
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.Properties.Resources.resources
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\market\market\bin\Debug\market.exe.config
+C:\Users\ASUS\source\repos\market\market\bin\Debug\market.exe
+C:\Users\ASUS\source\repos\market\market\bin\Debug\market.pdb
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.exe
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.pdb
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.Form2.resources
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.Form3.resources
+C:\Users\ASUS\source\repos\market\market\bin\Debug\BCrypt.Net.dll
+C:\Users\ASUS\source\repos\market\market\bin\Debug\BCrypt.Net.xml
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.csproj.CopyComplete
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.Form4.resources
+C:\Users\ASUS\source\repos\market\market\obj\Debug\market.Form5.resources
