@@ -1,0 +1,1 @@
+Marketlerde kullanılan gelişmiş otomasyon sistemi
